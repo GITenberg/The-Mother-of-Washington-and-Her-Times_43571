@@ -1,0 +1,28 @@
+_repo: The-Mother-of-Washington-and-Her-Times_43571
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43571-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Pryor, Sara Agnes Rice
+    aliases:
+    - Pryor, Mrs. Roger A.
+    - Rice, Sara Agnes
+    gutenberg_agent_id: '42304'
+    url: http://www.gutenberg.org/2009/agents/42304
+description: ''
+gutenberg_issued: '2013-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Social life and customs'
+- !lcsh 'Washington, Mary Ball, 1708-1789'
+- !lcc 'E300'
+title: The Mother of Washington and Her Times
+url: http://www.gutenberg.org/ebooks/43571
